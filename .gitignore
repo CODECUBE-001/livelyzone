@@ -62,3 +62,4 @@ buck-out/
 # Editor
 __tests__
 .vscode
+config.bat
